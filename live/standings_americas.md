@@ -4,24 +4,24 @@
 | Standing | Points | Team Name                         | Roster                                            |                                                                                                   |
 | :- | -: | :- | :- | :- |
 | 1        |   1519 | PaiN Gaming                       | biguzera, dav1deuS, kauez, nqz, snow              | [details](details/0014--pain_gaming--biguzera-dav1deus-kauez-nqz-snow.md)                         |
-| 2        |   1264 | Team Liquid                       | jks, NAF, NertZ, Twistzz, ultimate                | [details](details/0017--team_liquid--jks-naf-nertz-twistzz-ultimate.md)                           |
-| 3        |   1157 | FURIA                             | chelo, FalleN, KSCERATO, skullz, yuurih           | [details](details/0021--furia--chelo-fallen-kscerato-skullz-yuurih.md)                            |
-| 4        |   1141 | Wildcard                          | JBa, phzy, Sonic, stanislaw, susp                 | [details](details/0023--wildcard--jba-phzy-sonic-stanislaw-susp.md)                               |
-| 5        |   1130 | MIBR                              | drop, exit, insani, Lucaozy, saffee               | [details](details/0025--mibr--drop-exit-insani-lucaozy-saffee.md)                                 |
-| 6        |   1057 | M80                               | Lake, reck, s1n, slaxz-, Swisher                  | [details](details/0037--m80--lake-reck-s1n-slaxz--swisher.md)                                     |
+| 2        |   1263 | Team Liquid                       | jks, NAF, NertZ, Twistzz, ultimate                | [details](details/0017--team_liquid--jks-naf-nertz-twistzz-ultimate.md)                           |
+| 3        |   1231 | FURIA                             | chelo, FalleN, KSCERATO, skullz, yuurih           | [details](details/0018--furia--chelo-fallen-kscerato-skullz-yuurih.md)                            |
+| 4        |   1144 | Wildcard                          | JBa, phzy, Sonic, stanislaw, susp                 | [details](details/0022--wildcard--jba-phzy-sonic-stanislaw-susp.md)                               |
+| 5        |   1131 | MIBR                              | drop, exit, insani, Lucaozy, saffee               | [details](details/0025--mibr--drop-exit-insani-lucaozy-saffee.md)                                 |
+| 6        |   1057 | M80                               | Lake, reck, s1n, slaxz-, Swisher                  | [details](details/0038--m80--lake-reck-s1n-slaxz--swisher.md)                                     |
 | 7        |   1055 | Imperial Esports                  | chayJESUS, decenty, noway, try, VINI              | [details](details/0039--imperial_esports--chayjesus-decenty-noway-try-vini.md)                    |
-| 8        |   1052 | NRG                               | br0, HexT, Jeorge, nitr0, oSee                    | [details](details/0040--nrg--br0-hext-jeorge-nitr0-osee.md)                                       |
+| 8        |   1051 | NRG                               | br0, HexT, Jeorge, nitr0, oSee                    | [details](details/0040--nrg--br0-hext-jeorge-nitr0-osee.md)                                       |
 | 9        |   1049 | Sharks Esports                    | doc, gafolo, koala, Nicks, rdnzao                 | [details](details/0041--sharks_esports--doc-gafolo-koala-nicks-rdnzao.md)                         |
-| 10       |   1015 | Fluxo                             | arT, history, kye, nicks, piriajr                 | [details](details/0047--fluxo--art-history-kye-nicks-piriajr.md)                                  |
+| 10       |   1014 | Fluxo                             | arT, history, kye, nicks, piriajr                 | [details](details/0047--fluxo--art-history-kye-nicks-piriajr.md)                                  |
 | 11       |    985 | Complexity                        | Cxzi, Grim, hallzerk, JT, nicx                    | [details](details/0052--complexity--cxzi-grim-hallzerk-jt-nicx.md)                                |
 | 12       |    981 | ODDIK                             | Ceruttera, matios, naitte, pancc, WOOD7           | [details](details/0053--oddik--ceruttera-matios-naitte-pancc-wood7.md)                            |
 | 13       |    979 | FURIA Female                      | bizinha, gabs, izaa, kaahSENSEI, lulitenz         | [details](details/0057--furia_female--bizinha-gabs-izaa-kaahsensei-lulitenz.md)                   |
 | 14       |    958 | Legacy                            | dumau, latto, lux, n1ssim, saadzin                | [details](details/0062--legacy--dumau-latto-lux-n1ssim-saadzin.md)                                |
-| 15       |    944 | Nouns Esports                     | cJ-dA-K1nG, Cryptic, junior, Peeping, RUSH        | [details](details/0064--nouns_esports--cj-da-k1ng-cryptic-junior-peeping-rush.md)                 |
-| 16       |    941 | Getting Info                      | dare, dea, MarKE, nosraC, shane                   | [details](details/0066--getting_info--dare-dea-marke-nosrac-shane.md)                             |
-| 17       |    933 | Chill Guys                        | Evan, MagiC, MERL, NIGHT666LADE, TABEN            | [details](details/0069--chill_guys--evan-magic-merl-night666lade-taben.md)                        |
-| 18       |    918 | BESTIA                            | cass1n, leo_drk, luchov, Noktse, tomaszin         | [details](details/0078--bestia--cass1n-leo_drk-luchov-noktse-tomaszin.md)                         |
-| 19       |    904 | Team Solid                        | destiny, drg, gbb, nython, tomate                 | [details](details/0088--team_solid--destiny-drg-gbb-nython-tomate.md)                             |
+| 15       |    944 | Nouns Esports                     | cJ-dA-K1nG, Cryptic, junior, Peeping, RUSH        | [details](details/0065--nouns_esports--cj-da-k1ng-cryptic-junior-peeping-rush.md)                 |
+| 16       |    941 | Getting Info                      | dare, dea, MarKE, nosraC, shane                   | [details](details/0067--getting_info--dare-dea-marke-nosrac-shane.md)                             |
+| 17       |    933 | Chill Guys                        | Evan, MagiC, MERL, NIGHT666LADE, TABEN            | [details](details/0070--chill_guys--evan-magic-merl-night666lade-taben.md)                        |
+| 18       |    918 | BESTIA                            | cass1n, leo_drk, luchov, Noktse, tomaszin         | [details](details/0079--bestia--cass1n-leo_drk-luchov-noktse-tomaszin.md)                         |
+| 19       |    904 | Team Solid                        | destiny, drg, gbb, nython, tomate                 | [details](details/0089--team_solid--destiny-drg-gbb-nython-tomate.md)                             |
 | 20       |    883 | BLUEJAYS                          | freshie, Fruitcupx, SLIGHT, snav, Wolffe          | [details](details/0100--bluejays--freshie-fruitcupx-slight-snav-wolffe.md)                        |
 | 21       |    834 | Bounty Hunters Esports            | Bruninho, KAISER, meyern, Tuurtle, zock           | [details](details/0114--bounty_hunters_esports--bruninho-kaiser-meyern-tuurtle-zock.md)           |
 | 22       |    834 | Party Astronauts                  | ben1337, d4rty, FaNg, ogwizard, viz               | [details](details/0115--party_astronauts--ben1337-d4rty-fang-ogwizard-viz.md)                     |
@@ -41,12 +41,12 @@
 | 36       |    750 | RED Canids Academy                | edv, FasteR, gtw, n0page, sanc                    | [details](details/0182--red_canids_academy--edv-faster-gtw-n0page-sanc.md)                        |
 | 37       |    739 | MIBR Academy                      | brn$, card, mlhzin, RenanZin, stormzyn            | [details](details/0190--mibr_academy--brn_-card-mlhzin-renanzin-stormzyn.md)                      |
 | 38       |    723 | Bad News Chickens                 | Alisson, desh, Leomonster, short, Skr             | [details](details/0208--bad_news_chickens--alisson-desh-leomonster-short-skr.md)                  |
-| 39       |    719 | RED Canids                        | dav1deuS, hardzao, HEN1, nython, venomzera        | [details](details/0211--red_canids--dav1deus-hardzao-hen1-nython-venomzera.md)                    |
-| 40       |    715 | SUPER EVIL GANG                   | arias, clipzera, flow, Misha, Talen               | [details](details/0216--super_evil_gang--arias-clipzera-flow-misha-talen.md)                      |
+| 39       |    719 | RED Canids                        | dav1deuS, hardzao, HEN1, nython, venomzera        | [details](details/0212--red_canids--dav1deus-hardzao-hen1-nython-venomzera.md)                    |
+| 40       |    714 | SUPER EVIL GANG                   | arias, clipzera, flow, Misha, Talen               | [details](details/0216--super_evil_gang--arias-clipzera-flow-misha-talen.md)                      |
 | 41       |    714 | Supernova Comets                  | empathy, Fawx, raven, Serendipity, Stx            | [details](details/0217--supernova_comets--empathy-fawx-raven-serendipity-stx.md)                  |
 | 42       |    709 | Case Esports                      | bsd, nyezin, RICIOLI, urban0, yepz                | [details](details/0224--case_esports--bsd-nyezin-ricioli-urban0-yepz.md)                          |
-| 43       |    703 | AdalYamigos                       | ckzao, delboNi, f4stzin, pesadelo, SHOOWTiME      | [details](details/0232--adalyamigos--ckzao-delboni-f4stzin-pesadelo-shoowtime.md)                 |
-| 44       |    702 | 9z Team                           | adamS, HUASOPEEK, Luken, Martinez, max            | [details](details/0233--9z_team--adams-huasopeek-luken-martinez-max.md)                           |
+| 43       |    703 | AdalYamigos                       | ckzao, delboNi, f4stzin, pesadelo, SHOOWTiME      | [details](details/0231--adalyamigos--ckzao-delboni-f4stzin-pesadelo-shoowtime.md)                 |
+| 44       |    701 | 9z Team                           | adamS, HUASOPEEK, Luken, Martinez, max            | [details](details/0233--9z_team--adams-huasopeek-luken-martinez-max.md)                           |
 | 45       |    701 | ShindeN                           | abizz, BK1, ivz, nacho, roy                       | [details](details/0234--shinden--abizz-bk1-ivz-nacho-roy.md)                                      |
 | 46       |    698 | Intense Game                      | ckzao, fREQ, jz, keiz, zede                       | [details](details/0239--intense_game--ckzao-freq-jz-keiz-zede.md)                                 |
 | 47       |    690 | 9z Academy                        | lezy, MaxOff, neozix, rw, zock9                   | [details](details/0253--9z_academy--lezy-maxoff-neozix-rw-zock9.md)                               |
@@ -65,14 +65,14 @@
 | 60       |    657 | MIBR Female                       | Babs, dani, GaBi, jelly, lexy                     | [details](details/0301--mibr_female--babs-dani-gabi-jelly-lexy.md)                                |
 | 61       |    653 | Thekillaz                         | brunakiller, cellax, fly, hera, samys             | [details](details/0310--thekillaz--brunakiller-cellax-fly-hera-samys.md)                          |
 | 62       |    653 | Yawara E-Sports                   | j0w, nardes, revoltz, stAx, telezin               | [details](details/0311--yawara_e-sports--j0w-nardes-revoltz-stax-telezin.md)                      |
-| 63       |    653 | Pugdesonesto                      | Bonecomeister, cLd, ganso, imoto, phx             | [details](details/0312--pugdesonesto--bonecomeister-cld-ganso-imoto-phx.md)                       |
+| 63       |    653 | Pugdesonesto                      | Bonecomeister, cLd, ganso, imoto, phx             | [details](details/0313--pugdesonesto--bonecomeister-cld-ganso-imoto-phx.md)                       |
 | 64       |    651 | 20/70                             | Demonos, lealziNho, Roz, swarmyzz, voltera        | [details](details/0315--20_70--demonos-lealzinho-roz-swarmyzz-voltera.md)                         |
 | 65       |    651 | Panter Esports                    | ANGEK, Brajean, Cuboss, Rdq, sop                  | [details](details/0316--panter_esports--angek-brajean-cuboss-rdq-sop.md)                          |
 | 66       |    649 | Tak tak queota                    | dani, fly, GaBi, showliana, tamizinha             | [details](details/0320--tak_tak_queota--dani-fly-gabi-showliana-tamizinha.md)                     |
 | 67       |    648 | LaChampionsLiga                   | dott1, Hezz, lenci, pavv+, rzk                    | [details](details/0321--lachampionsliga--dott1-hezz-lenci-pavv_-rzk.md)                           |
 | 68       |    648 | FlyQuest RED                      | BiBiAhn, emy, GooseBreeder, marie, vanessa        | [details](details/0322--flyquest_red--bibiahn-emy-goosebreeder-marie-vanessa.md)                  |
 | 69       |    647 | Team USA (Female team)            | EMUHLEET, emy, madss, olya, uhKelsie              | [details](details/0325--team_usa__female_team_--emuhleet-emy-madss-olya-uhkelsie.md)              |
-| 70       |    646 | Nitro.GG                          | beg0d, happ, Lcm, leleo, LUCAS1                   | [details](details/0328--nitro_gg--beg0d-happ-lcm-leleo-lucas1.md)                                 |
+| 70       |    646 | Nitro.GG                          | beg0d, happ, Lcm, leleo, LUCAS1                   | [details](details/0327--nitro_gg--beg0d-happ-lcm-leleo-lucas1.md)                                 |
 | 71       |    646 | Chicken Coop Esports              | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy           | [details](details/0329--chicken_coop_esports--bagel-binox-frizzy-littlebeer-taggy.md)             |
 | 72       |    639 | KRÜ Esports                       | atarax1a, chshekin, deco, reversive, righi        | [details](details/0342--kr__esports--atarax1a-chshekin-deco-reversive-righi.md)                   |
 | 73       |    633 | Undefined (American team)         | BeaKie, chop, CLASIA, motm, stamina               | [details](details/0347--undefined__american_team_--beakie-chop-clasia-motm-stamina.md)            |
@@ -84,15 +84,15 @@
 | 79       |    622 | América eSports                   | antonini, nikz, proSHOW, Reix, Thuister           | [details](details/0362--am_rica_esports--antonini-nikz-proshow-reix-thuister.md)                  |
 | 80       |    617 | Nouns.fe                          | ashe, jesscas, lunari, raynee, violet             | [details](details/0368--nouns_fe--ashe-jesscas-lunari-raynee-violet.md)                           |
 | 81       |    614 | MarcaRegistrada                   | amc, b1, Jardani, Majestic, spamzzy               | [details](details/0375--marcaregistrada--amc-b1-jardani-majestic-spamzzy.md)                      |
-| 82       |    614 | 5 - 1 and dead                    | Brocke, Praze, Sonyes, Time-Warrior, Walk-it-back | [details](details/0377--5_-_1_and_dead--brocke-praze-sonyes-time-warrior-walk-it-back.md)         |
+| 82       |    613 | 5 - 1 and dead                    | Brocke, Praze, Sonyes, Time-Warrior, Walk-it-back | [details](details/0377--5_-_1_and_dead--brocke-praze-sonyes-time-warrior-walk-it-back.md)         |
 | 83       |    611 | Lotus                             | abby, cyclone, gadfly, tokkis, Zazu               | [details](details/0379--lotus--abby-cyclone-gadfly-tokkis-zazu.md)                                |
 | 84       |    607 | Aware Impact                      | Cloudy, eepy.rain, Lexa, thecatt, tokkis          | [details](details/0384--aware_impact--cloudy-eepy_rain-lexa-thecatt-tokkis.md)                    |
 | 85       |    607 | Blue Otter Karma                  | buhnny, Ellie, EMUHLEET, olya, rain               | [details](details/0385--blue_otter_karma--buhnny-ellie-emuhleet-olya-rain.md)                     |
 | 86       |    606 | INTERDIT                          | KLR, kxr, polarzyn, respect, vzn                  | [details](details/0386--interdit--klr-kxr-polarzyn-respect-vzn.md)                                |
 | 87       |    602 | Floripa Stars                     | ALENNNCARrx, Brnz1k, Lukita, s1cko, Sakamoto      | [details](details/0391--floripa_stars--alennncarrx-brnz1k-lukita-s1cko-sakamoto.md)               |
 | 88       |    602 | Nova holanda                      | bks, dudinho, fP1, kirill, t9mpest                | [details](details/0393--nova_holanda--bks-dudinho-fp1-kirill-t9mpest.md)                          |
-| 89       |    601 | Lotus                             | ARIANARCHIST, Axessor, Fawx, Knopk@, Zazu         | [details](details/0394--lotus--arianarchist-axessor-fawx-knopk_-zazu.md)                          |
-| 90       |    601 | X7 Team                           | aDr, gsr, pab1, R4N, sai                          | [details](details/0395--x7_team--adr-gsr-pab1-r4n-sai.md)                                         |
+| 89       |    601 | X7 Team                           | aDr, gsr, pab1, R4N, sai                          | [details](details/0394--x7_team--adr-gsr-pab1-r4n-sai.md)                                         |
+| 90       |    601 | Lotus                             | ARIANARCHIST, Axessor, Fawx, Knopk@, Zazu         | [details](details/0395--lotus--arianarchist-axessor-fawx-knopk_-zazu.md)                          |
 | 91       |    600 | InControl                         | Beast, DYLAN, jsfeltner, milo, TyRa               | [details](details/0396--incontrol--beast-dylan-jsfeltner-milo-tyra.md)                            |
 | 92       |    599 | Vibe (American team)              | grape, Pol0, Pose1doNN, swag, taggy               | [details](details/0400--vibe__american_team_--grape-pol0-pose1donn-swag-taggy.md)                 |
 | 93       |    596 | Galorys Academy                   | bacc, insan1ty, Kadzz, prisma, triande            | [details](details/0401--galorys_academy--bacc-insan1ty-kadzz-prisma-triande.md)                   |
@@ -109,7 +109,7 @@
 | 104      |    542 | Take Flyte                        | Crisp, huncho, Panic, REKMEISTER, Sharpie         | [details](details/0461--take_flyte--crisp-huncho-panic-rekmeister-sharpie.md)                     |
 | 105      |    539 | BeBold.gg                         | agR, alwayz, guH, heartless, Machado              | [details](details/0462--bebold_gg--agr-alwayz-guh-heartless-machado.md)                           |
 | 106      |    536 | Patins da Ferrari                 | CSO, CutzMeretz, land1n, lub, perez               | [details](details/0465--patins_da_ferrari--cso-cutzmeretz-land1n-lub-perez.md)                    |
-| 107      |    533 | SamuraiS (Brazilian team)         | badran, lcf, ritz, vhs, zock9                     | [details](details/0472--samurais__brazilian_team_--badran-lcf-ritz-vhs-zock9.md)                  |
+| 107      |    532 | SamuraiS (Brazilian team)         | badran, lcf, ritz, vhs, zock9                     | [details](details/0472--samurais__brazilian_team_--badran-lcf-ritz-vhs-zock9.md)                  |
 | 108      |    531 | Game Hunters                      | cerolzin, Lich, mello, pedrinzy, prt              | [details](details/0474--game_hunters--cerolzin-lich-mello-pedrinzy-prt.md)                        |
 | 109      |    529 | Chape E-sports                    | GuusW, haaizy, johnzer44, kauanz, tadday          | [details](details/0477--chape_e-sports--guusw-haaizy-johnzer44-kauanz-tadday.md)                  |
 | 110      |    520 | AMIGOS (Brazilian team)           | aNgelo, doiz, mid1, Tineu, zede                   | [details](details/0484--amigos__brazilian_team_--angelo-doiz-mid1-tineu-zede.md)                  |
@@ -122,9 +122,9 @@
 | 117      |    495 | AMIGOS (Brazilian team)           | aNgelo, brokeN, CloN7, doiz, hug1                 | [details](details/0512--amigos__brazilian_team_--angelo-broken-clon7-doiz-hug1.md)                |
 | 118      |    493 | Jahsdnmasjdm v2                   | calamity, dea, intra, LEARSI, sacrifice           | [details](details/0515--jahsdnmasjdm_v2--calamity-dea-intra-learsi-sacrifice.md)                  |
 | 119      |    490 | VitaPLUR                          | alannn, den1ed, graphX, kouhai, xsany             | [details](details/0523--vitaplur--alannn-den1ed-graphx-kouhai-xsany.md)                           |
-| 120      |    490 | TROPA DOS 7                       | angelz, CloN7, Lqk, TEKO, will1ZERA               | [details](details/0524--tropa_dos_7--angelz-clon7-lqk-teko-will1zera.md)                          |
+| 120      |    489 | TROPA DOS 7                       | angelz, CloN7, Lqk, TEKO, will1ZERA               | [details](details/0524--tropa_dos_7--angelz-clon7-lqk-teko-will1zera.md)                          |
 | 121      |    488 | PaiN Gaming Academy               | deemO, legy, Markz, Tatu, tsug                    | [details](details/0526--pain_gaming_academy--deemo-legy-markz-tatu-tsug.md)                       |
-| 122      |    486 | Mythic                            | Austin, Cooper, fl0m, hyza, Trucklover86          | [details](details/0530--mythic--austin-cooper-fl0m-hyza-trucklover86.md)                          |
+| 122      |    486 | Mythic                            | Austin, Cooper, fl0m, hyza, Trucklover86          | [details](details/0531--mythic--austin-cooper-fl0m-hyza-trucklover86.md)                          |
 | 123      |    485 | URI Sailor                        | Blackze, juliano, lucasss, pertile, pvL           | [details](details/0533--uri_sailor--blackze-juliano-lucasss-pertile-pvl.md)                       |
 | 124      |    485 | Romanos                           | fakzwall, guidimon, meyern, nacho, rox            | [details](details/0534--romanos--fakzwall-guidimon-meyern-nacho-rox.md)                           |
 | 125      |    484 | Nyx Empyre                        | ADK, Jaydee, MamaAlien, PippySippy, Viv           | [details](details/0535--nyx_empyre--adk-jaydee-mamaalien-pippysippy-viv.md)                       |
